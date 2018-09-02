@@ -2,6 +2,8 @@
 
 source 'https://rubygems.org'
 
+gem 'values'
+
 # Inbound network connections
 gem 'rack'
 gem 'puma'

@@ -17,6 +17,7 @@ GEM
       rack-protection (= 2.0.3)
       tilt (~> 2.0)
     tilt (2.0.8)
+    values (1.8.0)
 
 PLATFORMS
   ruby
@@ -26,6 +27,7 @@ DEPENDENCIES
   puma
   rack
   sinatra
+  values
 
 BUNDLED WITH
    1.16.4
